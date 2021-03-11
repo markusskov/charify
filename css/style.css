@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'poppins', sans-serif;
+}
+
+/* Variables */
+:root {
+  --primary-color: #ffb800;
+  --text-color: #000;
+  --text-color-inverted: #fff;
+}
